@@ -22,12 +22,10 @@ Hi, I'm Euny Kim!
 <hr>
 
 <pre>
-💻 I am a driven Junior Android Developer
-📚 I have a Bachelors in Mechanical Engineering from the University College London
+💻 I am a self-driven Junior Android Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Kotlin
-🚩 Interested in Full Stack Android Application development
+🚩 Interested in Full Stack Android Application Development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
