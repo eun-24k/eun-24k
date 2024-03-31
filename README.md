@@ -88,7 +88,7 @@ Hi, I'm Euny Kim!
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/eun-24k"></a> GitHub Stats
 
 
 <p align="center">
@@ -111,7 +111,7 @@ Hi, I'm Euny Kim!
 <br/>
 -->
 
-<summary><b>⚡ Top Languages</b></summary>
+## <a href="https://github.com/eun-24k"></a> Top Languages
 <br/>
 
 <p align="center">
