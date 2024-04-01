@@ -22,7 +22,7 @@ Hi, I'm Euny Kim!
 <hr>
 
 <pre>
-💻 I am a self-driven Junior Android Developer
+💻 I am a self-driven Android Developer
 🌟 Main languages: Kotlin
 💡 Currently based in South Korea
 🧸 Willing to relocate
