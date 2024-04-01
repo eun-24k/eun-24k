@@ -23,9 +23,11 @@ Hi, I'm Euny Kim!
 
 <pre>
 💻 I am a self-driven Junior Android Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
 🌟 Main languages: Kotlin
+💡 Currently based in South Korea
+🧸 Willing to relocate
 🚩 Interested in Full Stack Android Application Development
+📝 I have a strong interest in Data Science and Artificial Intelligence
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
